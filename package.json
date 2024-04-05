@@ -1,6 +1,6 @@
 {
   "name": "areesha_iqbal_todo-list",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CLI based Todo Application.",
   "main": "index.js",
   "type": "module",
